@@ -6,7 +6,7 @@ git init
 ```
 ## Clone(複製)別人的 Repository
 ```
-git clone 'line'
+git clone 'link'
 ```
 
 
